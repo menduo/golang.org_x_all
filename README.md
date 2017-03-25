@@ -6,7 +6,7 @@ mirror of golang.org/x/
 
 `repos="arch benchmarks build crypto exp image mobile net oauth2 perf review sync sys text tools tour"`
 
-# Usage
+# Install
 
 ```bash
 # go to $GOPATH or the  vendor dir of your project
@@ -14,6 +14,13 @@ $ cd $GOPATH/src # or path/of/project/vendor/
 $ rm -rf ./golang.org # remove the old one
 $ git clone https://github.com/menduo/golang.org_x_all ./golang.org
 $ cd golang.org; make init
+```
+
+# Update
+```bash
+$ cd golang.org
+$ git pull
+$ make update
 ```
 
 # Contribute
