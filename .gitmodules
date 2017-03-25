@@ -1,0 +1,48 @@
+[submodule "x/arch"]
+	path = x/arch
+	url = https://github.com/golang/arch
+[submodule "x/benchmarks"]
+	path = x/benchmarks
+	url = https://github.com/golang/benchmarks
+[submodule "x/build"]
+	path = x/build
+	url = https://github.com/golang/build
+[submodule "x/crypto"]
+	path = x/crypto
+	url = https://github.com/golang/crypto
+[submodule "x/exp"]
+	path = x/exp
+	url = https://github.com/golang/exp
+[submodule "x/image"]
+	path = x/image
+	url = https://github.com/golang/image
+[submodule "x/mobile"]
+	path = x/mobile
+	url = https://github.com/golang/mobile
+[submodule "x/net"]
+	path = x/net
+	url = https://github.com/golang/net
+[submodule "x/oauth2"]
+	path = x/oauth2
+	url = https://github.com/golang/oauth2
+[submodule "x/perf"]
+	path = x/perf
+	url = https://github.com/golang/perf
+[submodule "x/review"]
+	path = x/review
+	url = https://github.com/golang/review
+[submodule "x/sync"]
+	path = x/sync
+	url = https://github.com/golang/sync
+[submodule "x/sys"]
+	path = x/sys
+	url = https://github.com/golang/sys
+[submodule "x/text"]
+	path = x/text
+	url = https://github.com/golang/text
+[submodule "x/tools"]
+	path = x/tools
+	url = https://github.com/golang/tools
+[submodule "x/tour"]
+	path = x/tour
+	url = https://github.com/golang/tour
